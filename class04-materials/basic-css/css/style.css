@@ -5,9 +5,9 @@ h1 {
 }
 h2 {
     color: purple;
-    text-decoration: solid;
+    font-weight: bold;
     text-size-adjust: 25px;
-    border: 3px solid orange;
+    border: 5px solid orange;
 }
 section {
     width: 50%;
@@ -20,10 +20,10 @@ p {
 }
 footer {
     background: black;
-    border: 3px solid lightgreen;
+    border: 5px solid lightgreen;
 }
 h3 {
-    text-size-adjust: 20px;
     color: white;
+    font-size: 20px;
     font-family: 'Roboto', sans-serif;
 }
