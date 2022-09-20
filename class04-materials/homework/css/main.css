@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container {
+    display: grid;
+    place-items: center;
+    padding: 50px;
+}
+h1 {
+    font-style: italic;
+    font-weight: 500;
+}
+nav ul {
+    display: inline-block;
+}
+img {
+    height: 200px;
+    float: right;
+}
+p {
+    text-align: justify;
+    float: left;
+}
+.about-us {
+    display: inline-block;
+}
