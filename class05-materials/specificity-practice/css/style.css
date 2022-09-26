@@ -9,8 +9,8 @@
 }
 
 /* Please select Duck with the highest level of specificity possible */
-.likesToQuack, .fight1Or100{
-    text-decoration: underline !important;
+html > body > h1#h1 + section.top + section.middle + article.areDucksDinosaurs > h2.likesToQuack.fight1Or100{
+    color: lime !important;
 }
 
 /* Please select Rhino with the highest level of specificity possible */
