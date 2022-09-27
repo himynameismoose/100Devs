@@ -6,7 +6,7 @@ section h2 {
 }
 
 /* Please make only "twitter" red and 20px */
-aside > p a {
+aside a {
     color: red;
     font-size: 20px;
 }
@@ -16,12 +16,12 @@ article h2 {
     color: purple;
 }
 
-article > h2 + h2 {
+article h2 + h2 {
     font-size: 30px;
     color: blue;
 }
 
 /* Please make only bob and pizza green */
-nav > ul + ul > li a{
+ul + ul a {
     color: green;
 }
